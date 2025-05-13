@@ -85,16 +85,16 @@ function Footer() {
           <h4>Quick Links</h4>
           <ul>
             <li>
-              <a href="home">Home</a>
+              <a href="/home">Home</a>
             </li>
             <li>
-              <a href="about">About Us</a>
+              <a href="/about">About Us</a>
             </li>
             <li>
-              <a href="product">Products</a>
+              <a href="/product">Products</a>
             </li>
             <li>
-              <a href="contact">Contacts</a>
+              <a href="/contact">Contacts</a>
             </li>
           </ul>
         </div>
