@@ -31,11 +31,12 @@ const ContactMap = () => {
         <img
           src="/images/location.png"
           width="90%"
+          alt="image"
           height="90%"
           allowFullScreen=""
           loading="lazy"
           title="Google Map"
-        ></img>
+        />
       </div>
     </div>
   </div>
