@@ -24,9 +24,9 @@ const ReadMore = () => {
       <section className="read-more-section">
         <h1>About Biocrafters</h1>
         <p>
-          At Biocrafters, we are redefining the future of energy and agriculture with sustainable, carbon-smart solutions. 
+         {/* we are redefining the future of energy and agriculture with sustainable, carbon-smart solutions. 
           Specializing in the production and supply of biocoal and biochar, our mission is to bridge the gap between environmental responsibility and industrial innovation. 
-          By transforming organic waste into high-value carbon products, we help reduce dependency on fossil fuels and support regenerative agriculture—creating a cleaner, greener, and more sustainable world.
+          By transforming organic waste into high-value carbon products, we help reduce dependency on fossil fuels and support regenerative agriculture—creating a cleaner, greener, and more sustainable world. */}
         </p>
         
         <h2>Our Mission</h2>

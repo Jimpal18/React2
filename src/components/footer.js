@@ -123,7 +123,7 @@ function Footer() {
           </p>
           <form className="subscribe-form">
             <input type="email" placeholder="Your Email " />
-            <button type="submit">Subscribe</button>
+            <button type="submit">Subscribes</button>
           </form>
         </div>
       </div>
